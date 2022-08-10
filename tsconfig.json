@@ -1,0 +1,12 @@
+{
+  "include": ["@types"],
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": false
+  },
+  "exclude": [
+    "node_modules",
+    "Lib"
+  ]
+}
